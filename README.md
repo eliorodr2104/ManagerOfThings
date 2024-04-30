@@ -1,8 +1,10 @@
 ## Manager Of Things
 
+
 ## Description:
 
 The Project is designed to be your personal companion for managing the nuances of your day-to-day life. From the trivial yet essential tasks to the memorable tunes that color your moments, this application aims to streamline your daily routine. By leveraging Kotlin's ROOM, it provides a seamless interface to capture, organize, and reflect on your daily activities. Embrace the joy of tracking your journey through time, one task at a time, with the added flair of sharing ephemeral moments with peers via a future peer-to-peer networking solution.
+
 
 ## Features:
 
@@ -12,6 +14,7 @@ The Project is designed to be your personal companion for managing the nuances o
 - **Temporary Sharing (Future):** Planned feature to share tasks and experiences temporarily with nearby users, fostering real-time collaboration and camaraderie.
 - **Peer-to-Peer Networking (Planned):** Theoretical implementation for future development, envisioning a decentralized sharing mechanism for efficient, server-less communication among users.
 - **Daily Songs (Planned):** Upcoming feature to add a musical backdrop to your day, elevating your experience with personalized soundtracks for each day.
+
 
 ## Installation:
 
@@ -24,6 +27,7 @@ The Project is designed to be your personal companion for managing the nuances o
 
 3. Build and run the project.
 
+
 ## Usage:
 
 1. Launch the application on your device.
@@ -34,6 +38,7 @@ The Project is designed to be your personal companion for managing the nuances o
 
 4. (Planned) Enjoy adding daily songs to your tasks.
 
-## License:
 
+## License:
 This project is licensed under the [MIT License](LICENSE).
+
