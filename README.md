@@ -1,8 +1,6 @@
 # Manager Of Things
 
-
-## Description:
-
+**Your Personal Productivity Companion**
 The Project is designed to be your personal companion for managing the nuances of your day-to-day life. From the trivial yet essential tasks to the memorable tunes that color your moments, this application aims to streamline your daily routine. By leveraging Kotlin's ROOM, it provides a seamless interface to capture, organize, and reflect on your daily activities. Embrace the joy of tracking your journey through time, one task at a time, with the added flair of sharing ephemeral moments with peers via a future peer-to-peer networking solution.
 
 
@@ -41,4 +39,3 @@ The Project is designed to be your personal companion for managing the nuances o
 
 ## License:
 This project is licensed under the [MIT License](LICENSE).
-
